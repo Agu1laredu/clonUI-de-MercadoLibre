@@ -55,7 +55,7 @@ const Carrousel = () => {
         maxHeight="65vh"
         src={dataImage[currentImageIndex]}
         alt="Carrousel"
-        style={{ width: '100%', margin: 'auto' }}
+        style={{ width: '85vw', margin: 'auto' }}
       />
       <Button
         onClick={nextImage}
