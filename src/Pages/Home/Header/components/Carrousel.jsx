@@ -8,6 +8,7 @@ const Carrousel = () => {
     'https://http2.mlstatic.com/D_NQ_755326-MLA70516180908_072023-OO.webp',
     'https://http2.mlstatic.com/D_NQ_867446-MLA70532417040_072023-OO.webp',
     'https://http2.mlstatic.com/D_NQ_702182-MLA70435050360_072023-OO.webp',
+    'https://http2.mlstatic.com/D_NQ_601831-MLA70538800506_072023-OO.webp',
   ]
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0)

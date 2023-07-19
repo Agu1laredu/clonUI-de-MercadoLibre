@@ -1,67 +1,51 @@
-<!-- # FreeMarket (MercadoLibreCLONE)
+FreeMarket (Clon de MercadoLibre)
+Enlace de demo:
+Accede a mi sitio en
 
-## Demo link:
+Tabla de contenido:
+Acerca de la aplicación
+Capturas de pantalla
+Tecnologías
+Configuración
+Enfoque
+Estado
+Licencia
+Acerca de la aplicación
+[FreeMarket] El propósito de esta aplicación es poner en práctica mis conocimientos en React.Js y perfeccionar mi maquetación utilizando CSS a partir de la facilidad que ofrece ChakraUI, ya que permite utilizar CSS directamente desde los componentes de React. En este caso, tomé el diseño de UI de un famoso sitio de comercio electrónico en América Latina (MercadoLibre) y lo adapté utilizando diferentes sombras y disposiciones en la maquetación, modificando el logo ya que no está permitido por los servicios de alojamiento.
 
-Access my site at 
+Este diseño está orientado a ser completamente responsive, se inició desde una vista de escritorio y a través del uso de Flexbox y Grid se adaptó a las vistas móviles.
+Capturas de pantalla
+Página de inicio
+MercadoLibre-Clon2
 
-## Table of Content:
+Página de producto
+MercadoLibre-Clon3
 
-- [About The App](#about-the-app)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Approach](#approach)
-- [Status](#status)
-- [License](#license)
+Vista móvil
+Página de inicio
+MercadoLibre-Clon
 
-## About The App
+Página de producto
+MercadoLibre-Clon-card
 
-[FreeMarket] The purpose of this application is to put into practice my knowledge in React.Js and perfecting my layout using CSS from the facility proposed by ChakraUI because you can use CSS directly from the React components, in this case I took the UI design of a very famous ecommerce in Latin America (MercadoLibre) which I adapted it using different box shadows and provisions in the layout, modifying the Logo because it is not allowed by the hostings. 
-- This layout is oriented to full responsive, it started from a desktop view and from the use of Flexbox and Grid it was oriented to mobile views. 
-## Screenshots
+Tecnologías
+Utilicé HTML, CSS, React.Js, ChakraUI, React-Router-Dom, Chakra-Icons, Context ...
 
-#### Home Page
+Configuración
+Descarga o clona el repositorio
+Instala las dependencias yarn install
+Ejecuta la aplicación yarn run dev
+Construye la aplicación yarn build
+Vista previa de la aplicación construida yarn preview
+Enfoque
+Utilicé el framework de React JS para crear cada uno de los componentes funcionales de la aplicación, y para el estilo apliqué la librería de estilos ChakraUi. También utilicé la API de Context de React para controlar los datos e interacciones de las funcionalidades.
+Dado que ChakraUI tiene un déficit con algunos elementos, utilicé una hoja de estilos .css para compensar esa deficiencia y lograr el diseño propuesto, usando ChakraUI como una librería CSS en JavaScript.
+Utilicé Adobe Illustrator y AdobeXd para crear los SVGs necesarios para las categorías.
 
-![Mercadolibre-Clone2](https://user-images.githubusercontent.com/96245472/198860304-c634ce51-2da0-4ba8-8ce7-58004702315e.png)
+Estado
+[FreeMarket] aún está en progreso. La Versión 2.4.2 estará disponible próximamente.
 
-##### Product Page
+Licencia
+Licencia MIT @ FrancMartin
 
-![Mercadolibre-Clone 3](https://user-images.githubusercontent.com/96245472/198860313-a4785b69-7659-47a2-a3ed-64ef0a5c1769.png)
-
-
-### Mobile View
-
-#### Home Page
-
-![Mercadolibre-Clone](https://user-images.githubusercontent.com/96245472/198860349-3880b467-8d17-4a87-a19e-8ecccecdcec8.png)
-
-##### Product Page
-
-![Mercadolibre-Clone-card](https://user-images.githubusercontent.com/96245472/199402104-cdcb5cdc-b7ed-48f6-9f17-3b40b7bf2b0a.png)
-
-
-## Technologies
-
-I used `HTML`, `CSS`,`React.Js`,`ChakraUI`,`React-Router-Dom`, `Chakra-Icons`,`Context` ...
-
-## Setup
-
-- download or clone the repository
-- Install dependencies `yarn install`
-- Run aplication `yarn run dev`
-- Build aplication `yarn build`
-- Build Preview aplication `yarn preview`
-
-## Approach
-
-I used the react js framework to create each of the functional components for the app, the styling was applied using the ChakraUi style library, I used both react Context Api to control the data and interactions of the functionalities.
-Since chakra has a deficit with the elements , use a .css stylesheet to make up for that deficit and get to the proposed design,used chakraUI as a `CSS` library in `JavaScript`. 
-I used Adobe Illustrator and AdobeXd to create the SVGs needed for the categories. 
-## Status
-
-[FreeMarket] is still in progress. `Version 2.4.2` will be out soon.
-
-## License
-
-MIT license @ [FrancMartin](https://franc-martin-portfolio.netlify.app/)
-# clonUI-de-MercadoLibre -->
+ClonUI-de-MercadoLibre
