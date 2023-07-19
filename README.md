@@ -1,4 +1,4 @@
-# FreeMarket (MercadoLibreCLONE)
+<!-- # FreeMarket (MercadoLibreCLONE)
 
 ## Demo link:
 
@@ -64,4 +64,4 @@ I used Adobe Illustrator and AdobeXd to create the SVGs needed for the categorie
 ## License
 
 MIT license @ [FrancMartin](https://franc-martin-portfolio.netlify.app/)
-# clonUI-de-MercadoLibre
+# clonUI-de-MercadoLibre -->
