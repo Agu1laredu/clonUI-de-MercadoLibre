@@ -1,0 +1,13 @@
+body {
+  overflow-x: hidden;
+}
+input[type="text"]:focus-visible {
+  outline: 0;
+}
+input::placeholder {
+  opacity: 0.5;
+}
+
+.opacity {
+  opacity: 1;
+}
