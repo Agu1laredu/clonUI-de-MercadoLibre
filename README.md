@@ -12,7 +12,6 @@ Acceso al sitio web:
 - [Configuración](#Configuración)
 - [Enfoque](#Enfoque)
 - [Estado](#Estado)
-- [License](#license)
 
 ## Sobre la App
 
