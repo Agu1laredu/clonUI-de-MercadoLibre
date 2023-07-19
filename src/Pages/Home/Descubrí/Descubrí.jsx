@@ -1,6 +1,6 @@
-import { Grid, HStack } from "@chakra-ui/react";
-import React from "react";
-import Card from "./components/Card";
+import { Grid } from '@chakra-ui/react'
+import React from 'react'
+import Card from './components/Card'
 
 const Descubrí = () => {
   return (
@@ -8,23 +8,23 @@ const Descubrí = () => {
       my="10"
       gap="2"
       gridTemplateColumns={{
-        base: "none",
-        md: "repeat(auto-fit,minmax(330px,1fr))",
+        base: 'none',
+        md: 'repeat(auto-fit,minmax(330px,1fr))',
       }}
       w="full"
     >
       <Card
-        urlImg="https://http2.mlstatic.com/D_NQ_627055-MLA51835193577_102022-C.webp"
-        topHeading={"para tu mamá tecnológica"}
-        heading="hasta 25% off y 12x sin interés"
+        urlImg="https://http2.mlstatic.com/D_NQ_936663-MLA70377484803_072023-C.webp"
+        topHeading={'Es el momento'}
+        heading="Aprovecha precios justos"
       />
       <Card
-        urlImg="https://http2.mlstatic.com/D_NQ_879261-MLA51835429392_102022-C.webp"
-        topHeading={"para que mamá se luzca"}
-        heading="hasta 35% off y 6x sin interés"
+        urlImg="https://http2.mlstatic.com/D_NQ_634493-MLA70515543712_072023-C.webp"
+        topHeading={'Especial computacion'}
+        heading="hasta 35% off y 6 cuotas sin interés"
       />
     </Grid>
-  );
-};
+  )
+}
 
-export default Descubrí;
+export default Descubrí

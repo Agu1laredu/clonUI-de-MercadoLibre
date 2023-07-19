@@ -1,5 +1,5 @@
-import { Box, HStack, Image, Text } from "@chakra-ui/react";
-import { Link } from "wouter";
+import { Box, HStack, Image, Text } from '@chakra-ui/react'
+import { Link } from 'wouter'
 
 const SubsBenefits = ({ props: { imgUrl, altImg, caption, id } }) => {
   return (
@@ -9,16 +9,17 @@ const SubsBenefits = ({ props: { imgUrl, altImg, caption, id } }) => {
           borderRadius="full"
           p={1}
           border="1px solid #cecece"
-          boxSize={{ base: "62px", md: "88px" }}
+          boxSize={{ base: '62px', md: '88px' }}
           src={imgUrl}
           alt={altImg}
+          style={{ border: 'none' }}
         />
         <Box>
           <Text fontWeight="light">{caption}</Text>
         </Box>
       </HStack>
     </Link>
-  );
-};
+  )
+}
 
-export default SubsBenefits;
+export default SubsBenefits

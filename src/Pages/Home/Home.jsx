@@ -7,6 +7,8 @@ import {
   Benefits,
   OffersDay,
   Descubrí,
+  Relacionados,
+  UltimaVista,
   Tiendas,
   PopularCategories,
 } from './index'
@@ -22,6 +24,8 @@ const Home = () => {
         centerContent
       >
         <OptionPay />
+        <UltimaVista />
+        <Relacionados />
         <Offers />
         <Subscribe />
         <Benefits />

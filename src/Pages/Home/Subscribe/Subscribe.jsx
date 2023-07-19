@@ -7,9 +7,9 @@ import {
   Text,
   chakra,
   Grid,
-} from "@chakra-ui/react";
-import { SubsBenefits, SubsHeader } from "./components/";
-import { dataSubscribe } from "../../../Constant";
+} from '@chakra-ui/react'
+import { SubsBenefits, SubsHeader } from './components/'
+import { dataSubscribe } from '../../../Constant'
 
 const Subscribe = () => {
   return (
@@ -21,14 +21,15 @@ const Subscribe = () => {
         color="#fff"
         borderRadius="md"
         bgGradient="linear(to-l, #0c1a51,#a90f90 50%)"
+        style={{ height: 85 }}
       >
         <Heading>Suscribite al nivel 6</Heading>
         <HStack>
           <StackDivider h="16" w="5px" bg="#fff" />
           <Box>
-            <Text as="s">$.1439</Text>
-            <Heading fontSize={{ base: "lg", md: "3xl" }}>
-              $ 499 <chakra.span fontSize="sm">/mes</chakra.span>
+            <Text as="s">$2.500</Text>
+            <Heading fontSize={{ base: 'lg', md: '3xl' }}>
+              $ 999 <chakra.span fontSize="sm">/mes</chakra.span>
             </Heading>
           </Box>
         </HStack>
@@ -36,8 +37,8 @@ const Subscribe = () => {
       <SubsHeader>
         <Grid
           gridTemplateColumns={{
-            base: "none",
-            md: "repeat(auto-fill,minmax(325px,1fr))",
+            base: 'none',
+            md: 'repeat(auto-fill,minmax(325px,1fr))',
           }}
           gap={2}
         >
@@ -47,7 +48,7 @@ const Subscribe = () => {
         </Grid>
       </SubsHeader>
     </Stack>
-  );
-};
+  )
+}
 
-export default Subscribe;
+export default Subscribe
