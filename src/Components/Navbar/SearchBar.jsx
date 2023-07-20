@@ -34,7 +34,7 @@ const SearchBar = () => {
         <chakra.input
           ref={formReference}
           w="full"
-          placeholder="Buscar marcas,productos y más..."
+          placeholder="Esto es un clon de Mercado libre , no es original de la empresa"
           type="text"
         />
       </chakra.form>
