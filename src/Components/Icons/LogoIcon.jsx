@@ -1,14 +1,18 @@
 import { Image } from '@chakra-ui/react'
-import Logo from '../../assets/Images/Logo.png'
 
 const LogoIcon = () => {
+  const LogoMercadoLibre =
+    'https://premioseikon.com/wp-content/uploads/2021/10/Logo_Meli-2048x803.png'
   return (
     <Image
-      src={Logo}
+      src={LogoMercadoLibre}
       alt="Logo de Mercado Libre"
       boxSize={{ base: '88px', md: '100px' }}
       objectFit="contain"
-      style={{ borderRadius: 50, width: 50, height: 80 }}
+      style={{
+        width: 90,
+        height: 90,
+      }}
     />
   )
 }
