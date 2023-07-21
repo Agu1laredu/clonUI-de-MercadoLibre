@@ -1,15 +1,15 @@
-import { Box, Grid, HStack, Image } from "@chakra-ui/react";
-import { useState } from "react";
-import { dataCardBrand } from "../../Constant";
-import ProductFees from "./components/ProductItem/ProductFees";
-import ProductItem from "./components/ProductItem/ProductItem";
-import ProductPrice from "./components/ProductItem/ProductPrice";
+import { Box, Grid, HStack, Image } from '@chakra-ui/react'
+import { useState } from 'react'
+import { dataCardBrand } from '../../Constant'
+import ProductFees from './components/ProductItem/ProductFees'
+import ProductItem from './components/ProductItem/ProductItem'
+import ProductPrice from './components/ProductItem/ProductPrice'
 
 const ProductsAll = ({ params }) => {
   const initalize = () =>
-    dataCardBrand.filter((element) => element.brand.brand === params.id);
-  const [productsAll, setProductAll] = useState(initalize);
-  console.log(productsAll);
+    dataCardBrand.filter((element) => element.brand.brand === params.id)
+  const [productsAll] = useState(initalize)
+  console.log(productsAll)
 
   return (
     <>
@@ -18,15 +18,22 @@ const ProductsAll = ({ params }) => {
         alt={productsAll[0].title}
         w="full"
         h="35vh"
-        margin='0 !important'
-        objectFit='cover'
-        objectPosition={{base:'-9rem 0',sm:'0 0'}}
+        margin="0 !important"
+        objectFit="cover"
+        objectPosition={{ base: '-9rem 0', sm: '0 0' }}
       />
-      <HStack justifyContent='center' w="full" alignItems="flex-start" p='4'flexWrap={{base:'wrap',md:'nowrap'}} gap='4'>
+      <HStack
+        justifyContent="center"
+        w="full"
+        alignItems="flex-start"
+        p="4"
+        flexWrap={{ base: 'wrap', md: 'nowrap' }}
+        gap="4"
+      >
         <Box>
           <Image
             boxSize="8rem"
-            border='1px solid #ccc'
+            border="1px solid #ccc"
             borderRadius="md"
             objectFit="cover"
             src={productsAll[0].brand.imgBrand}
@@ -57,9 +64,9 @@ const ProductsAll = ({ params }) => {
             </ProductItem>
           ))}
         </Grid>
-      </HStack>{" "}
+      </HStack>{' '}
     </>
-  );
-};
+  )
+}
 
-export default ProductsAll;
+export default ProductsAll

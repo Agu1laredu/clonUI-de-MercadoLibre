@@ -1,19 +1,10 @@
-import {
-  Box,
-  Button,
-  Grid,
-  Heading,
-  HStack,
-  Image,
-  Stack,
-  Text,
-} from "@chakra-ui/react";
-import { useState } from "react";
-import { Link } from "wouter";
-import { ArrowReturnIcon, TruckIcon } from "../../../Components";
+import { Box, Grid, Heading, HStack, Stack, Text } from '@chakra-ui/react'
+import { useState } from 'react'
+import { Link } from 'wouter'
+import { ArrowReturnIcon, TruckIcon } from '../../../Components'
 
 const ShippingCard = ({ shippingDescription, devolutions }) => {
-  const [modal, setModal] = useState(false);
+  const [modal, setModal] = useState(false)
   return (
     <Stack gap="4">
       <HStack gap="2">
@@ -26,11 +17,11 @@ const ShippingCard = ({ shippingDescription, devolutions }) => {
           "
             as="h6"
           >
-            {shippingDescription === "free"
-              ? "Llega gratis el martes"
-              : "Llega el martes con cargo adicional"}
+            {shippingDescription === 'free'
+              ? 'Llega gratis el martes'
+              : 'Llega el martes con cargo adicional'}
           </Text>
-          <Link to={"/tarjeta/all"}>
+          <Link to={'/tarjeta/all'}>
             <Text
               as="button"
               textAlign="start"
@@ -55,8 +46,8 @@ const ShippingCard = ({ shippingDescription, devolutions }) => {
             as="h6"
           >
             {devolutions.status
-              ? "Devolución gratis"
-              : "Devolución con recargo adicional"}
+              ? 'Devolución gratis'
+              : 'Devolución con recargo adicional'}
           </Text>
           {devolutions.text && (
             <Text color="blackAlpha.700" fontSize="sm">
@@ -96,7 +87,7 @@ const ShippingCard = ({ shippingDescription, devolutions }) => {
         )}
       </HStack>
     </Stack>
-  );
-};
+  )
+}
 
-export default ShippingCard;
+export default ShippingCard

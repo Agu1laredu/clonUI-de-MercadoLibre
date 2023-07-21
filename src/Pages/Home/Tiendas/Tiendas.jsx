@@ -1,11 +1,11 @@
-import { Stack } from "@chakra-ui/react";
-import { CustomSlider, SectionRoute } from "../../../Components";
-import { dataCardBrand } from "../../../Constant";
-import { TiendaCard } from "./components";
+import { Stack } from '@chakra-ui/react'
+import { CustomSlider, SectionRoute } from '../../../Components'
+import { dataCardBrand } from '../../../Constant'
+import { TiendaCard } from './components'
 
 const Tiendas = () => {
   return (
-    <Stack maxW="full" w="full" justify="flex-start" overflow="hidden">
+    <Stack maxW="full" w="full" h="full" justify="flex-start" overflow="hidden">
       <SectionRoute
         title="Beneficios de Mercado Puntos"
         cta="Ver todos los beneficios"
@@ -16,7 +16,7 @@ const Tiendas = () => {
         ))}
       </CustomSlider>
     </Stack>
-  );
-};
+  )
+}
 
-export default Tiendas;
+export default Tiendas

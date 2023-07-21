@@ -1,4 +1,4 @@
-import { chakra, Stack, Heading, StackDivider, Grid } from '@chakra-ui/react'
+import { chakra, Stack, StackDivider, Grid } from '@chakra-ui/react'
 import { SearchIcon } from '@chakra-ui/icons'
 import { useRef, useState } from 'react'
 
@@ -24,6 +24,7 @@ const SearchBar = () => {
       align={'center'}
     >
       <chakra.form
+        ref={keywoard.keyboard}
         onSubmit={(ev) => handleSubmitSearch(ev)}
         h="8"
         w="full"

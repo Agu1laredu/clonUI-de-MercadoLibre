@@ -1,13 +1,13 @@
-import { HStack, Stack, Text } from "@chakra-ui/react";
+import { HStack, Stack, Text } from '@chakra-ui/react'
 
-const OfferPrice = ({ price, discount, prevPrice, description, children }) => {
+const OfferPrice = ({ price, discount, description, children }) => {
   const parsePrice = (price) => {
-    const result = price.toLocaleString("es-AR", {
-      style: "currency",
-      currency: "ARS",
-    });
-    return result;
-  };
+    const result = price.toLocaleString('es-AR', {
+      style: 'currency',
+      currency: 'ARS',
+    })
+    return result
+  }
   return (
     <Stack
       py="20px"
@@ -17,7 +17,6 @@ const OfferPrice = ({ price, discount, prevPrice, description, children }) => {
       bg="#fff"
       margin="0 !important"
     >
-      {/* <Text postition='absolute' as="s">{parsePrice(prevPrice)}</Text> */}
       <HStack>
         <Text fontSize="xl" fontWeight="semibold">
           {parsePrice(price)}
@@ -29,7 +28,7 @@ const OfferPrice = ({ price, discount, prevPrice, description, children }) => {
       {children}
       <Text>{description}</Text>
     </Stack>
-  );
-};
+  )
+}
 
-export default OfferPrice;
+export default OfferPrice

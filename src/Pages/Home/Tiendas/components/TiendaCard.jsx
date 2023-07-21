@@ -1,7 +1,7 @@
-import { Heading, HStack, Stack, Text } from "@chakra-ui/react";
-import { ImageBrand, ImageIcons, ImageHeader } from "./index";
-import { Link } from "wouter";
-import handleScrollToTop from "../../../../utils/handleScrollToTop";
+import { Heading, HStack, Stack, Text } from '@chakra-ui/react'
+import { ImageBrand, ImageIcons, ImageHeader } from './index'
+import { Link } from 'wouter'
+import handleScrollToTop from '../../../../utils/handleScrollToTop'
 
 const TiendaCard = ({ props }) => {
   return (
@@ -13,7 +13,11 @@ const TiendaCard = ({ props }) => {
       bg="#fafafa"
       width="full"
       gap={8}
-      _hover={{boxShadow: "xl" }}
+      cursor="pointer"
+      _hover={{
+        boxShadow: '0 0 10px 3px rgba(0, 0, 0, 0.3)',
+        height: '315px',
+      }}
     >
       <ImageHeader props={props}>
         <ImageBrand
@@ -35,14 +39,24 @@ const TiendaCard = ({ props }) => {
             />
           ))}
         </HStack>
-        <Link onClick={handleScrollToTop} href={`/products/${props.brand.brand}`}>
-          <Text  cursor="pointer" as="a" color="#ccc" fontWeight='semibold' _hover={{color: 'black'}} fontSize="md">
+        <Link
+          onClick={handleScrollToTop}
+          href={`/products/${props.brand.brand}`}
+        >
+          <Text
+            cursor="pointer"
+            as="a"
+            color="#ccc"
+            fontWeight="semibold"
+            _hover={{ color: 'blue' }}
+            fontSize="md"
+          >
             Ver tienda
           </Text>
         </Link>
       </Stack>
     </Stack>
-  );
-};
+  )
+}
 
-export default TiendaCard;
+export default TiendaCard

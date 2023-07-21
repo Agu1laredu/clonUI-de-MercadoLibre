@@ -1,6 +1,6 @@
-import { Stack } from "@chakra-ui/react";
-import { Navbar } from "./Components";
-import Routes from "./Routes/Routes";
+import { Stack } from '@chakra-ui/react'
+import { Navbar } from './Components'
+import Routes from './Routes/Routes'
 
 const App = () => {
   return (
@@ -8,7 +8,7 @@ const App = () => {
       <Navbar />
       <Routes />
     </Stack>
-  );
-};
+  )
+}
 
-export default App;
+export default App

@@ -10,8 +10,7 @@ Acceso al sitio web:
 - [Capturas de pantalla](#Capturas-de-pantalla)
 - [Tecnologías](#Tecnologías)
 - [Configuración](#Configuración)
-- [Enfoque](#Enfoque)
-- [Estado](#Estado)
+
 
 ## Sobre la App
 

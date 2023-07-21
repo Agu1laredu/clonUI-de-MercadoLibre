@@ -1,15 +1,15 @@
-import { HStack, Image, Box, Stack, Heading, Text } from "@chakra-ui/react";
+import { HStack, Image, Box, Stack, Heading, Text } from '@chakra-ui/react'
 
 const BenefitsHeading = ({
   props: { imgUrl, imgAlt, description, title, promotional },
 }) => {
   return (
     <HStack
-      position={"absolute"}
+      position={'absolute'}
       bottom="-1px"
       w="full"
       h="35%"
-      borderBottomRadius={"xl"}
+      borderBottomRadius={'xl'}
       p="2"
       gap="4"
       bgGradient="linear(#1a339740 0%, #a90f9059 25%, #a90f9080 50%)"
@@ -23,7 +23,7 @@ const BenefitsHeading = ({
             {promotional}
           </Text>
         )}
-        <Heading margin="0 !important" fontWeight="500" fontSize={"xl"}>
+        <Heading margin="0 !important" fontWeight="500" fontSize={'xl'}>
           {title}
         </Heading>
         <Text margin="0 !important" fontSize="lg">
@@ -31,7 +31,7 @@ const BenefitsHeading = ({
         </Text>
       </Stack>
     </HStack>
-  );
-};
+  )
+}
 
-export default BenefitsHeading;
+export default BenefitsHeading

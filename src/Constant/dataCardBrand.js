@@ -5,8 +5,8 @@ export const dataCardBrand = [
     icon: [
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_800599-MLA40680519430_022020-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_903411-MLA53132390396_012023-O.webp",
+        iconThumbnailAlt: "Soporte Paragolpes Delantero Citroen C3",
         id: "1",
         shipping: {
           send: "free",
@@ -15,16 +15,16 @@ export const dataCardBrand = [
             text: "Tenés 30 días desde que lo recibís.",
           },
         },
-        description:
-          "Proyector Delantero Izquierdo Citroen C3 Aircross 1.6 Nafta",
-        price: 87367,
+        description: "Soporte Paragolpes Delantero Citroen C3",
+        price: 5411,
       },
       {
         imgUrl:
           "https://http2.mlstatic.com/D_NQ_NP_881793-MLA40680518351_022020-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_766547-MLA69908057212_062023-O.webp",
+        iconThumbnailAlt:
+          "Caño Toma Aire Citroen C3 Aircross Picasso 1.5 / 1.6 Nafta",
         icons: [
           "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
           "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
@@ -39,14 +39,14 @@ export const dataCardBrand = [
           },
         },
         description:
-          "Proyector Delantero Izquierdo Citroen C3 Aircross 1.6 Nafta",
-        price: 87367,
+          "Caño Toma Aire Citroen C3 Aircross Picasso 1.5 / 1.6 Nafta",
+        price: 22639,
         id: "2",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_904722-MLA44123885770_112020-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_902572-MLA69820856578_062023-O.webp",
+        iconThumbnailAlt: "Centro De Llanta Citroën Ds3",
         id: "3",
         shipping: {
           send: "free",
@@ -55,9 +55,8 @@ export const dataCardBrand = [
             text: "Tenés 30 días desde que lo recibís.",
           },
         },
-        description:
-          "Proyector Delantero Izquierdo Citroen C3 Aircross 1.6 Nafta",
-        price: 87367,
+        description: "Centro De Llanta Citroën Ds3",
+        price: 12815,
       },
     ],
     title: "Citroën Repuestos",
@@ -75,20 +74,65 @@ export const dataCardBrand = [
     icon: [
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_785300-MLA49590376007_042022-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_976266-MLA42565793395_072020-O.webp",
+        iconThumbnailAlt: "Almohada Simmons Beautyrest Black 70x50",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Almohada Simmons Beautyrest Black 70x50",
+        price: 45779,
         id: "1",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_963929-MLA47327925853_092021-R.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_843658-MLA46348188427_062021-O.webp",
+        iconThumbnailAlt: "Almohada Memory Foam Simmons Spa",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Almohada Memory Foam Simmons Spa",
+        price: 27366,
         id: "2",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_972992-MLA49590221532_042022-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_663361-MLA42565795024_072020-O.webp",
+        iconThumbnailAlt: "Almohada Intelligent Foam Simmons",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Almohada Intelligent Foam Simmons",
+        price: 64300,
         id: "3",
       },
     ],
@@ -97,6 +141,21 @@ export const dataCardBrand = [
       imgBrand:
         "https://http2.mlstatic.com/D_Q_NP_2X_747379-MLA25913869258_082017-AE.webp",
       imgBrandAlt: "Simmons-Logo",
+      icons: [
+        "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+      ],
+      shipping: {
+        send: "free",
+        devolution: {
+          status: true,
+          text: "Tenés 30 días desde que lo recibís.",
+        },
+      },
+      description: "Almohada Simmons Beautyrest Black 70x50",
+      price: 45779,
       brand: "Simmons",
     },
     key: "2abc",
@@ -109,12 +168,42 @@ export const dataCardBrand = [
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_Q_NP_2X_993646-MLA48258348451_112021-R.webp",
         iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Almohada Simmons Beautyrest Black 70x50",
+        price: 45779,
         id: "1",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_630138-MLA46744491743_072021-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_733103-MLA49598783960_042022-O.webp",
         iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Almohada Simmons Beautyrest Black 70x50",
+        price: 45779,
         id: "2",
       },
       {
@@ -139,20 +228,67 @@ export const dataCardBrand = [
     icon: [
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_747195-MLA47571222266_092021-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_755305-MLA45726261505_042021-O.webp",
+        iconThumbnailAlt: "Cubo Rubiks Hasbro Rex",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Cubo Rubiks Hasbro Rex",
+        price: 4386,
         id: "1",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_699078-MLA40435686372_012020-R.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_636715-MLA70461135935_072023-O.webp",
+        iconThumbnailAlt:
+          "Colchon Inflable Bestway 1 Plaza + Inflador Camping - Rex",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description:
+          "Colchon Inflable Bestway 1 Plaza + Inflador Camping - Rex",
+        price: 21.167,
         id: "2",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_770300-MLA49927288296_052022-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_940764-MLA51358439658_082022-O.webp",
+        iconThumbnailAlt: "Colchon Inflable Bestway 2 Plazas 191x137x22 Cm Rex",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Colchon Inflable Bestway 2 Plazas 191x137x22 Cm Rex",
+        price: 19.753,
         id: "3",
       },
     ],
@@ -203,20 +339,66 @@ export const dataCardBrand = [
     icon: [
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_636880-MLA49925816154_052022-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_688020-MLA52162043353_102022-O.webp",
+        iconThumbnailAlt: "Samsung Galaxy A04 128gb Negro",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Samsung Galaxy A04 128gb Negro",
+        price: 79999,
         id: "1",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_986281-MLA49326772215_032022-R.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_864199-MLA46598232314_072021-O.webp",
+        iconThumbnailAlt:
+          "Aspiradora Samsung Sin Bolsa 2000 W Azul Vc20ccnmabc",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Samsung Galaxy A04 128gb Negro",
+        price: 62499,
         id: "2",
       },
       {
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_809520-MLA49798449733_042022-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_834912-MLA53448065832_012023-O.webp",
+        iconThumbnailAlt: "Celular Galaxy S23 256gb Black",
+        icons: [
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Celular Galaxy S23 256gb Black",
+        price: 409999,
         id: "3",
       },
     ],

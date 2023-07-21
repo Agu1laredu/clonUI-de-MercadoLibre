@@ -1,4 +1,4 @@
-import { Grid, Heading, Text } from '@chakra-ui/react'
+import { Grid, Text } from '@chakra-ui/react'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import React from 'react'
 import { Link } from 'wouter'
