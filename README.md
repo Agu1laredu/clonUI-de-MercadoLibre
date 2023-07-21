@@ -19,7 +19,7 @@ Acceso al sitio web:
 - Este diseño está orientado a ser completamente responsive, se inició desde una vista de escritorio y a través del uso de Flexbox y Grid se adaptó a las vistas móviles.
 ## Tecnologias
 
-I used `HTML`, `CSS`,`React.Js`,`ChakraUI`,`React-Router-Dom`, `Chakra-Icons`,`Context` ...
+ `HTML`, `CSS`,`React.Js`,`ChakraUI`,`React-Router-Dom`, `Chakra-Icons`,`Context` ...
 
 ## Configuración
 
@@ -28,14 +28,6 @@ I used `HTML`, `CSS`,`React.Js`,`ChakraUI`,`React-Router-Dom`, `Chakra-Icons`,`C
 - Ejecuta la aplicación  `yarn run dev `
 - Construye la aplicación  `yarn build `
 - Vista previa de la aplicación construida ` yarn preview `
-
-## Enfoque
-
-Utilicé el framework de React JS para crear cada uno de los componentes funcionales de la aplicación, y para el estilo apliqué la librería de estilos ChakraUi. También utilicé la API de Context de React para controlar los datos e interacciones de las funcionalidades.
-Dado que ChakraUI tiene un déficit con algunos elementos, utilicé una hoja de estilos .css para compensar esa deficiencia y lograr el diseño propuesto, usando ChakraUI como una librería  `CSS`en  `JavaScript `.
-## Estado
-
-[ZuperMart] aún está en progreso. La `Version 2.4.2` estará disponible próximamente..
 
 # clonUI-de-MercadoLibre
 
