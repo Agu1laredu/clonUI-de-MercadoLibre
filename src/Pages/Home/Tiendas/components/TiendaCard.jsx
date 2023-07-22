@@ -16,8 +16,9 @@ const TiendaCard = ({ props }) => {
       cursor="pointer"
       _hover={{
         boxShadow: '0 0 10px 3px rgba(0, 0, 0, 0.3)',
-        height: '315px',
+        height: '330px',
       }}
+      style={{ border: '1px solid rgba(0, 0, 0, 0.3)' }}
     >
       <ImageHeader props={props}>
         <ImageBrand
