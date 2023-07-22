@@ -31,6 +31,7 @@ const Home = () => {
         <Benefits />
         <OffersDay />
         <Descubrí />
+        <Relacionados />
         <Tiendas />
         <PopularCategories />
       </Container>

@@ -4,9 +4,18 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/citronrepuestos/background_home202002130943.jpg",
     icon: [
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_903411-MLA53132390396_012023-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_903411-MLA53132390396_012023-O.webp",
         iconThumbnailAlt: "Soporte Paragolpes Delantero Citroen C3",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_903411-MLA53132390396_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_931713-MLA53132390395_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_620300-MLA53540504071_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_852803-MLA53540504072_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_684238-MLA53540504073_012023-O.webp",
+        ],
         id: "1",
         shipping: {
           send: "free",
@@ -20,16 +29,17 @@ export const dataCardBrand = [
       },
       {
         imgUrl:
-          "https://http2.mlstatic.com/D_NQ_NP_881793-MLA40680518351_022020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_766547-MLA69908057212_062023-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_766547-MLA69908057212_062023-O.webp",
         iconThumbnailAlt:
           "Caño Toma Aire Citroen C3 Aircross Picasso 1.5 / 1.6 Nafta",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_766547-MLA69908057212_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_993283-MLA69908057210_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_841492-MLA53540501651_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_843857-MLA53540501653_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_733237-MLA53540501652_012023-O.webp",
         ],
         shipping: {
           send: "free",
@@ -44,9 +54,18 @@ export const dataCardBrand = [
         id: "2",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_617622-MLA70609167068_072023-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_902572-MLA69820856578_062023-O.webp",
         iconThumbnailAlt: "Centro De Llanta Citroën Ds3",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_617622-MLA70609167068_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_835112-MLA70609167062_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_841492-MLA53540501651_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_843857-MLA53540501653_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_733237-MLA53540501652_012023-O.webp",
+        ],
         id: "3",
         shipping: {
           send: "free",
@@ -73,14 +92,15 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/simmons/background_home201803120215.jpg",
     icon: [
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_976266-MLA42565793395_072020-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_976266-MLA42565793395_072020-O.webp",
         iconThumbnailAlt: "Almohada Simmons Beautyrest Black 70x50",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_976266-MLA42565793395_072020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_730109-MLA42565793396_072020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_720863-MLA42565793394_072020-O.webp",
         ],
         shipping: {
           send: "free",
@@ -94,14 +114,15 @@ export const dataCardBrand = [
         id: "1",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_843658-MLA46348188427_062021-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_843658-MLA46348188427_062021-O.webp",
         iconThumbnailAlt: "Almohada Memory Foam Simmons Spa",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_843658-MLA46348188427_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_896484-MLA46348188428_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_974583-MLA46348188426_062021-O.webp",
         ],
         shipping: {
           send: "free",
@@ -115,14 +136,15 @@ export const dataCardBrand = [
         id: "2",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_663361-MLA42565795024_072020-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_663361-MLA42565795024_072020-O.webp",
         iconThumbnailAlt: "Almohada Intelligent Foam Simmons",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_663361-MLA42565795024_072020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_951066-MLA42565795025_072020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_704062-MLA42565795023_072020-O.webp",
         ],
         shipping: {
           send: "free",
@@ -165,14 +187,19 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/adidasperformance/background_home201711211123.jpg",
     icon: [
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_709821-MLA46479907047_062021-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_993646-MLA48258348451_112021-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_709821-MLA46479907047_062021-O.webp",
+        iconThumbnailAlt: "Ojotas Adilette Aqua (unisex) Negro adidas",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_709821-MLA46479907047_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_998937-MLA46479907049_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_680733-MLA46479907043_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_877122-MLA46479907050_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_740074-MLA46479907044_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_873774-MLA46479907051_062021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_667503-MLA46479907045_062021-O.webp",
         ],
         shipping: {
           send: "free",
@@ -181,19 +208,21 @@ export const dataCardBrand = [
             text: "Tenés 30 días desde que lo recibís.",
           },
         },
-        description: "Almohada Simmons Beautyrest Black 70x50",
-        price: 45779,
+        description: "Ojotas Adilette Aqua (unisex) Negro adidas",
+        price: 15999,
         id: "1",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_733103-MLA49598783960_042022-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_733103-MLA49598783960_042022-O.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+        iconThumbnailAlt: "Mochila Power Vi - Negro adidas",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_733103-MLA49598783960_042022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_839689-MLA49598783957_042022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_715779-MLA49598783958_042022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_658884-MLA49598783962_042022-O.webp",
         ],
         shipping: {
           send: "free",
@@ -202,14 +231,28 @@ export const dataCardBrand = [
             text: "Tenés 30 días desde que lo recibís.",
           },
         },
-        description: "Almohada Simmons Beautyrest Black 70x50",
-        price: 45779,
+        description: "Mochila Power Vi - Negro adidas",
+        price: 24999,
         id: "2",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_839266-MLA50731501417_072022-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_2X_696355-MLA51532301288_092022-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_839266-MLA50731501417_072022-O.webp",
+        iconThumbnailAlt: "Zapatillas Eq21 Run Gy2190 adidas",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_839266-MLA50731501417_072022-O.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Zapatillas Eq21 Run Gy2190 adidas",
+        price: 29999,
         id: "3",
       },
     ],
@@ -227,14 +270,17 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/pintureriasrex/background_home201802011110.jpg",
     icon: [
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_755305-MLA45726261505_042021-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_755305-MLA45726261505_042021-O.webp",
         iconThumbnailAlt: "Cubo Rubiks Hasbro Rex",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_755305-MLA45726261505_042021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_632361-MLA45726254599_042021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_788775-MLA45726273289_042021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_948424-MLA45726231997_042021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_999873-MLA45726267453_042021-O.webp",
         ],
         shipping: {
           send: "free",
@@ -248,15 +294,20 @@ export const dataCardBrand = [
         id: "1",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_636715-MLA70461135935_072023-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_636715-MLA70461135935_072023-O.webp",
         iconThumbnailAlt:
           "Colchon Inflable Bestway 1 Plaza + Inflador Camping - Rex",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_636715-MLA70461135935_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_679376-MLA70461135939_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_663314-MLA70461135949_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_733598-MLA70461135945_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_867218-MLA70461135943_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_904942-MLA70461135947_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_975750-MLA70461135937_072023-O.webp",
         ],
         shipping: {
           send: "free",
@@ -267,18 +318,21 @@ export const dataCardBrand = [
         },
         description:
           "Colchon Inflable Bestway 1 Plaza + Inflador Camping - Rex",
-        price: 21.167,
+        price: 21167,
         id: "2",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_940764-MLA51358439658_082022-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_940764-MLA51358439658_082022-O.webp",
         iconThumbnailAlt: "Colchon Inflable Bestway 2 Plazas 191x137x22 Cm Rex",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_940764-MLA51358439658_082022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_859628-MLA51358439662_082022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_870790-MLA70461135951_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_906354-MLA70461135955_072023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_975750-MLA70461135937_072023-O.webp",
         ],
         shipping: {
           send: "free",

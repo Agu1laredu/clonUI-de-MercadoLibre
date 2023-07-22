@@ -35,7 +35,7 @@ const SearchBar = () => {
         <chakra.input
           ref={formReference}
           w="full"
-          placeholder="Esto es un clon de Mercado libre creado por jesus Eduardo Aguilar , no es original de la empresa"
+          placeholder="Esto es un clon de Mercado libre creado por Jesus Eduardo Aguilar "
           type="text"
         />
       </chakra.form>
