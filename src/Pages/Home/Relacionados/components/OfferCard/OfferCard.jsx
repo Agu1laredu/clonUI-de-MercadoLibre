@@ -31,7 +31,7 @@ const OfferCard = ({ imgUrl, imgAlt, idArt, children, setCart }) => {
       position="relative"
       zIndex="1"
       h="395px"
-      _hover={{ boxShadow: 'lg' }}
+      style={{ margin: '10px auto' }}
     >
       <Box borderRadius="full" boxShadow="md" onClick={handleFavoriteClick}>
         <Favorite
@@ -51,12 +51,11 @@ const OfferCard = ({ imgUrl, imgAlt, idArt, children, setCart }) => {
           h={{ base: '392px', md: '330px' }}
           zIndex="10"
           whiteSpace={'normal'}
-          _hover={{
-            height: 'auto',
-            maxHeight: '392px',
-            minHeight: '330px',
-          }}
           transition={{ height: '.1s ease-out' }}
+          _hover={{
+            boxShadow: '0 0 10px 3px rgba(0, 0, 0, 0.3)',
+          }}
+          style={{ height: '100%' }}
         >
           <Image
             src={imgUrl}
