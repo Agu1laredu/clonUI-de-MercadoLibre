@@ -360,21 +360,82 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/philips/background_home201801260438.jpg",
     icon: [
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_712250-MLA49850997117_052022-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_811317-MLA51229842570_082022-R.webp",
-        iconThumbnailAlt: "Rejilla-Paragolpes-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_712250-MLA49850997117_052022-O.webp",
+        iconThumbnailAlt:
+          "Limpia Zapatillas Philips Gca1000/60 Con 3 Cabezales",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_712250-MLA49850997117_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_849203-MLA49850997123_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_682380-MLA49850997115_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_767286-MLA49850997121_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_767286-MLA49850997121_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_750817-MLA49850997120_052022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_694625-MLA49850997122_052022-O.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Limpia Zapatillas Philips Gca1000/60 Con 3 Cabezales",
+        price: 17999,
         id: "1",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_899621-MLA70212447575_062023-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_930902-MLA43623760984_092020-R.webp",
-        iconThumbnailAlt: "Proyector-Delantero-Citroën-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_899621-MLA70212447575_062023-O.webp",
+        iconThumbnailAlt:
+          "Oneblade Philips Cuchilla De Recambio Pack Por 3 Unidades",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_899621-MLA70212447575_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_611199-MLA70190810784_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_984727-MLA70212123915_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_841425-MLA70212123917_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_983988-MLA70190810952_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_892621-MLA70190810958_062023-O.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description:
+          "Oneblade Philips Cuchilla De Recambio Pack Por 3 Unidades",
+        price: 10709,
         id: "2",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_722615-MLA45922709546_052021-O.webp",
         iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_Q_NP_840985-MLA47891535570_102021-R.webp",
-        iconThumbnailAlt: "Guardabarros-Delantero-Izquierdo-Citroen-C3",
+          "https://http2.mlstatic.com/D_NQ_NP_722615-MLA45922709546_052021-O.webp",
+        iconThumbnailAlt:
+          "Oneblade Philips Cuchilla De Recambio Pack Por 3 Unidades",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_722615-MLA45922709546_052021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_987443-MLA43752379623_102020-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_692833-MLA48895239934_012022-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_896663-MLA48895310512_012022-O.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description:
+          "Oneblade Philips Cuchilla De Recambio Pack Por 3 Unidades",
+        price: 10709,
         id: "3",
       },
     ],
@@ -383,6 +444,22 @@ export const dataCardBrand = [
       imgBrand:
         "https://mla-s1-p.mlstatic.com/902765-MLA43138801201_082020-AE.webp",
       imgBrandAlt: "Philips-Logo",
+      icons: [
+        "https://http2.mlstatic.com/D_NQ_NP_940764-MLA51358439658_082022-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_859628-MLA51358439662_082022-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_870790-MLA70461135951_072023-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_906354-MLA70461135955_072023-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_975750-MLA70461135937_072023-O.webp",
+      ],
+      shipping: {
+        send: "free",
+        devolution: {
+          status: true,
+          text: "Tenés 30 días desde que lo recibís.",
+        },
+      },
+      description: "Colchon Inflable Bestway 2 Plazas 191x137x22 Cm Rex",
+      price: 19753,
       brand: "Philips",
     },
     key: "4abc",
@@ -392,36 +469,19 @@ export const dataCardBrand = [
       "https://http2.mlstatic.com/storage/official-stores-images/samsung/background_home201902190516.jpg",
     icon: [
       {
-        iconThumbnailUrl:
-          "https://http2.mlstatic.com/D_NQ_NP_688020-MLA52162043353_102022-O.webp",
-        iconThumbnailAlt: "Samsung Galaxy A04 128gb Negro",
-        icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-        ],
-        shipping: {
-          send: "free",
-          devolution: {
-            status: true,
-            text: "Tenés 30 días desde que lo recibís.",
-          },
-        },
-        description: "Samsung Galaxy A04 128gb Negro",
-        price: 79999,
-        id: "1",
-      },
-      {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_864199-MLA46598232314_072021-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_864199-MLA46598232314_072021-O.webp",
         iconThumbnailAlt:
           "Aspiradora Samsung Sin Bolsa 2000 W Azul Vc20ccnmabc",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_864199-MLA46598232314_072021-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_719080-MLA31049323755_062019-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_867138-MLA31049334543_062019-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_764109-MLA31049327185_062019-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_698833-MLA31049324742_062019-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_794945-MLA31049315413_062019-O.webp",
         ],
         shipping: {
           send: "free",
@@ -430,19 +490,21 @@ export const dataCardBrand = [
             text: "Tenés 30 días desde que lo recibís.",
           },
         },
-        description: "Samsung Galaxy A04 128gb Negro",
+        description: "Aspiradora Samsung Sin Bolsa 2000 W Azul Vc20ccnmabc",
         price: 62499,
-        id: "2",
+        id: "1",
       },
       {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_834912-MLA53448065832_012023-O.webp",
         iconThumbnailUrl:
           "https://http2.mlstatic.com/D_NQ_NP_834912-MLA53448065832_012023-O.webp",
         iconThumbnailAlt: "Celular Galaxy S23 256gb Black",
         icons: [
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
-          "https://http2.mlstatic.com/D_Q_NP_881793-MLA40680518351_022020-R.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_834912-MLA53448065832_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_633021-MLA53448076594_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_630494-MLA53448108500_012023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_812616-MLA53448108499_012023-O.webp",
         ],
         shipping: {
           send: "free",
@@ -453,6 +515,30 @@ export const dataCardBrand = [
         },
         description: "Celular Galaxy S23 256gb Black",
         price: 409999,
+        id: "2",
+      },
+      {
+        imgUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_972195-MLA69962932396_062023-O.webp",
+        iconThumbnailUrl:
+          "https://http2.mlstatic.com/D_NQ_NP_972195-MLA69962932396_062023-O.webp",
+        iconThumbnailAlt: "Samsung Galaxy Z Flip4 Graphite 256 Gb + Buds2",
+        icons: [
+          "https://http2.mlstatic.com/D_NQ_NP_972195-MLA69962932396_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_739150-MLA70001471455_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_690990-MLA70001373887_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_845822-MLA69982319470_062023-O.webp",
+          "https://http2.mlstatic.com/D_NQ_NP_653945-MLA69982435758_062023-O.webp",
+        ],
+        shipping: {
+          send: "free",
+          devolution: {
+            status: true,
+            text: "Tenés 30 días desde que lo recibís.",
+          },
+        },
+        description: "Samsung Galaxy Z Flip4 Graphite 256 Gb + Buds2",
+        price: 399999,
         id: "3",
       },
     ],
