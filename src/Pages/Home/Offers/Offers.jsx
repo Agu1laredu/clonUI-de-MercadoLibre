@@ -12,7 +12,13 @@ const Offers = () => {
   }, [cart])
   return (
     <Router base="/products">
-      <Stack w="full" maxW="full" minH={{ base: 'auto', md: '20vh' }} gap="4">
+      <Stack
+        w="full"
+        maxW="full"
+        minH={{ base: 'auto', md: '20vh' }}
+        gap="4"
+        style={{ overflow: 'hidden' }}
+      >
         <SectionRoute title="Ofertas" cta="Ver todas" />
         <CustomSlider>
           {dataProductOfertas.map((element) => (

@@ -1,11 +1,11 @@
 import { Stack } from '@chakra-ui/react'
 import { OfferCard, OfferFees, OfferPrice } from './components'
 import { Router } from 'wouter'
-import { dataProduct } from '../../../Constant'
+import { UltimasVistasHogarYJardin } from '../../../Constant'
 import { SectionRoute, CustomSlider } from '../../../Components'
 import { useEffect, useState } from 'react'
 
-const Realacionados = () => {
+const RelacionadosUltimaVistas = () => {
   const [cart, setCart] = useState([])
   useEffect(() => {
     console.log(cart)
@@ -20,18 +20,23 @@ const Realacionados = () => {
         style={{ overflow: 'hidden' }}
       >
         <SectionRoute
-          title="Relacionado con tus visitas en Tecnología"
+          title="Relacionado con tus visitas en Hogar, Muebles y Jardín"
           cta="Ver historial"
         />
         <CustomSlider>
-          {dataProduct.map((element) => (
+          {UltimasVistasHogarYJardin.map((element) => (
             <OfferCard
               key={element.idArt}
               imgUrl={element.imgUrl}
               imgAlt={element.imgAlt}
               idArt={element.idArt}
               setCart={setCart}
-              style={{ width: element.width, height: element.height }}
+              style={{
+                width: element.width,
+                height: element.height,
+                padding: element.padding,
+                margin: element.margin,
+              }}
             >
               <OfferPrice
                 price={element.price}
@@ -49,4 +54,4 @@ const Realacionados = () => {
   )
 }
 
-export default Realacionados
+export default RelacionadosUltimaVistas

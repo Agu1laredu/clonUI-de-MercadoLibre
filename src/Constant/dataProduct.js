@@ -184,3 +184,65 @@ export const dataProductOfertas = [
       "Calefactor Convector Liliana CNG17 Convectory 2000W Blanco/Gris",
   },
 ];
+
+export const UltimasVistasHogarYJardin = [
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_903518-MLA51670028509_092022-O.webp",
+    imgAlt: "Silla Pc",
+    idArt: "asd1233",
+    price: 13500,
+    discount: "18% OFF",
+    prevPrice: 79999,
+    description: "Foco Cámara  Wifi 360  Graba Memoria Micrófono",
+  },
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_715448-MLA40386206696_012020-O.webp",
+    imgAlt: "Silla pc",
+    idArt: "asd1234",
+    price: 9999,
+    discount: "18% OFF",
+    prevPrice: 79999,
+    description: "Almohada Cannon Viscoelástica Clásica tradicional 62cm",
+  },
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_749805-MLA51648063503_092022-O.webp",
+    imgAlt: "Televisor",
+    idArt: "asd1235",
+    price: 109857,
+    discount: "18% OFF",
+    prevPrice: 92000,
+    description: "Samsung Galaxy A24 - Verde claro - 128 GB - 6 GB",
+  },
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663471-MLU54982656952_042023-O.webp",
+    imgAlt: "Televisor",
+    idArt: "asd1236",
+    price: 17131,
+    discount: "18% OFF",
+    prevPrice: 45900,
+    description: "Almohada Viscoelastica 70x40 King Koil Ultra Plush",
+  },
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_821548-MLA70583621324_072023-O.webp",
+    imgAlt: "Televisor",
+    idArt: "asd12367",
+    price: 37500,
+    discount: "18% OFF",
+    prevPrice: 69999,
+    description: "Reposera Alta Aluminio - 1 Pulgada Tela Coversol",
+  },
+  {
+    imgUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_662379-MLA68878374953_042023-O.webp",
+    imgAlt: "Televisor",
+    idArt: "asd12368",
+    price: 34500,
+    prevPrice: 159999,
+    description: "Cortadora Cerco Eléctrico Lusqtoff 550w 51cm Podadora Jardín",
+  },
+];

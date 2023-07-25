@@ -2,7 +2,7 @@ import { Image } from '@chakra-ui/react'
 
 const LogoIcon = () => {
   const LogoMercadoLibre =
-    'https://premioseikon.com/wp-content/uploads/2021/10/Logo_Meli-2048x803.png'
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGrrxUY-Lvl7t4t83sYqo1nb1XvKWAfSgSZfZbx15NnAao9e5e-W50kvjAa2mQh1I6EQ&usqp=CAU'
   return (
     <Image
       src={LogoMercadoLibre}

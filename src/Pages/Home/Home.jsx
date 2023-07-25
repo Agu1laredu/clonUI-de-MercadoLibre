@@ -9,6 +9,8 @@ import {
   Descubrí,
   Relacionados,
   UltimaVista,
+  RelacionadosUltimaVistas,
+  TePuedeInteresar,
   Tiendas,
   PopularCategories,
 } from './index'
@@ -31,8 +33,9 @@ const Home = () => {
         <Benefits />
         <OffersDay />
         <Descubrí />
-        <Relacionados />
+        <RelacionadosUltimaVistas />
         <Tiendas />
+        <TePuedeInteresar />
         <PopularCategories />
       </Container>
     </>
